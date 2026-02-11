@@ -61,7 +61,7 @@ Recency
 
 Education
 
-Steps
+- Steps
 
 Applied StandardScaler
 
